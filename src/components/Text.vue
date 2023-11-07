@@ -80,7 +80,7 @@ export default {
     min-width: 200px;
     /* overflow-wrap: anywhere; */
     top: 0px;
-    left: 0px;
+    right: 0px;
     padding: 3px 5px;
     opacity: 0.6;
 	}
